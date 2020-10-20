@@ -1,0 +1,45 @@
+h1{
+    font-size: 25px;
+    padding: 10px;
+}
+.logo_nav{
+    display: inline;
+    font-size: 25px;
+    padding: 10px;
+    border: 1px rgb(187, 187, 187) ;
+    
+}
+header{
+    background-color: rgb(187, 187, 187);
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: inline-block;
+}
+.underline_remove{
+    text-decoration: none;
+    color: black;
+}
+.underline_remove:hover{
+    color: rgb(100, 100, 100);
+}
+.user_pic{
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    float: left;
+    margin-right: 5px;
+}
+.user_name{
+    padding-left: 5px;
+    display:inline;
+    font-size : 24px;
+}
+.user_info{
+    float: right;
+}
+.wrong{
+    background-color: rgb(243, 151, 151);
+}

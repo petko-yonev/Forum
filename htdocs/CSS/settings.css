@@ -1,0 +1,124 @@
+.Settings_Threads_buttons{
+    display: inline;
+    margin: auto;
+    background-color: rgb(187, 187, 187);
+    font-size: 18px;
+    align-items: center;
+    letter-spacing: 1px;
+    padding: 10px;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    resize: none;
+    outline: none;
+    margin: 10px;
+}
+.Settings_Threads_buttons_cantainer{
+    text-align: center;
+}
+.settings_pic{
+    background-color: rgb(187, 187, 187);
+    text-align: center;
+    margin-right: 5px;
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+.text_about_me{
+        display: block;
+        margin: auto;
+        background-color: rgb(187, 187, 187);
+        font-size: 18px;
+        letter-spacing: 1px;
+        padding: 10px;
+        line-height: 1.5;
+        border: 1px solid #ccc;
+        resize: none;
+        outline: none;
+        width: 1000px;
+        height: 500px;
+}
+.SendThreadButton{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 40px;
+}
+.profile_settings{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(187, 187, 187);
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    resize: none;
+    outline: none;
+    width: 1000px;
+}
+.preview_new_pic{
+    background-color: rgb(187, 187, 187);
+    text-align: center;
+    margin-right: 5px;
+    display: none;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+.inputContainerData{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.inputContainerInfo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.AccountInfo{
+    display: block;
+}
+.ShowThreads{
+    display: block; 
+    background-color: rgb(187, 187, 187);
+}
+.AccountData{
+    display: block;
+}
+.Change_Profile_pic{
+    display: none;
+    margin: auto;
+    background-color: rgb(187, 187, 187);
+    font-size: 18px;
+    align-items: center;
+    letter-spacing: 1px;
+    padding: 10px;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    resize: none;
+    outline: none;
+    margin: 10px;
+}
+.PsswordVisibility{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(187, 187, 187);
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    resize: none;
+    outline: none;
+    width: 1000px;
+}
+.red_border{
+    border: 3px solid red;
+    margin:auto;
+    width: 1050px;
+    color: rgb(177, 36, 36);
+   font-size: 18px;
+}

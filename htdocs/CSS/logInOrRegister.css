@@ -1,0 +1,36 @@
+#logIn{
+    background-color: rgb(187, 187, 187);
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    
+}
+#Register{
+    background-color: rgb(187, 187, 187);
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto; 
+}
+.RegLogButtons{
+    font-size: 30px;
+    margin-top: 10px;
+    border-style: groove;
+}
+#RegLogButtonHolder{
+    background-color: rgb(187, 187, 187);
+    width: 300px;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.show{
+    display:block;
+}
+.hide{
+    display:none;
+}
